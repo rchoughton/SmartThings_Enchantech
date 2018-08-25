@@ -13,12 +13,12 @@
  *
  *  Enchantech Z-Wave Door/Window Sensor
  *
- *  Author: Johnathon Stevens
+ *  Author: Johnathon Stevens - updates richard
  *  Date: 2018-08-14
  */
 
 metadata {
-	definition (name: "Enchantech Z-Wave Door/Window Sensor redefine final test", namespace: "enchantech", author: "johnathon", ocfDeviceType: "x.com.st.d.sensor.contact") {
+	definition (name: "Enchantech Z-Wave Door/Window Sensor redefine final test", namespace: "enchantech", author: "johnathon-richard", ocfDeviceType: "x.com.st.d.sensor.contact") {
 		capability "Contact Sensor"
 		capability "Sensor"
 		capability "Tamper Alert"
