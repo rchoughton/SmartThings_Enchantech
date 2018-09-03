@@ -18,7 +18,7 @@
  */
 
 metadata {
-	definition (name: "Enchantech Z-Wave Door/Window Sensor redefine final test", namespace: "enchantech", author: "johnathon-richard", ocfDeviceType: "x.com.st.d.sensor.contact") {
+	definition (name: "Enchantech Z-Wave Door/Window Sensor redefine test", namespace: "enchantech", author: "johnathon-richard", ocfDeviceType: "x.com.st.d.sensor.contact") {
 		capability "Contact Sensor"
 		capability "Sensor"
 		capability "Tamper Alert"
